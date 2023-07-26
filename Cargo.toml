@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+    "cqrs_server",
+    "cqrs_generator",
+    "example"
+]
